@@ -18,7 +18,7 @@ Este é mais um projeto para estudos do curso da Rocketseat, o Explorer. <br/>
 <br>
 
 <p align="center">
-  <img alt="captura demonstrando o layout da aplicação." src="assets/preview.png" width="100%">
+  <img alt="captura demonstrando o layout da aplicação." src=".assets/PREVIEW.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
